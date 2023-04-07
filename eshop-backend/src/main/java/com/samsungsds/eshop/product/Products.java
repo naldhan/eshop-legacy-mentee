@@ -9,8 +9,6 @@ public class Products {
         return products;
     }
 
-    public Products() {}
-
     public Products(Product[] products) {
         this.products = products;
     }
