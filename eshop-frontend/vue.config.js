@@ -1,5 +1,5 @@
 module.exports = {
-  // Local Legacy
+/*  // Local Legacy
   devServer: {
     proxy: {
         "^/": {
@@ -18,4 +18,5 @@ module.exports = {
   //   },
   //   disableHostCheck: true
   // }
+*/
 }
